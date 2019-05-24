@@ -1,8 +1,16 @@
 # KEECO HW Node - Vertical design with power module
 
-**WARNING - Should you build the devices described below you will work with hazardous high voltages! 
-Only continue if you have experience in working with high voltages! Always disconnect your circuitry before touching any component! Always use appropriate housing for the device that provides mechanical stability and electrical insulation!
-The PCBs were designed to provide appropriate spacing between different potential signals, however incorrect mounting of through-hole components can result is short circuits and/or connecting low-voltage wires to high potentials!**
+**WARNING - Should you build the devices described below you will work with hazardous high voltages!**
+
+**Only continue if you have experience in working with high voltages!** 
+
+**Always disconnect your circuitry before touching any component!** 
+
+**Always use appropriate housing for the device that provides mechanical stability and electrical insulation!**
+
+**The PCBs were designed to provide appropriate spacing between different potential signals, however incorrect mounting of through-hole components can result is short circuits and/or connecting low-voltage wires to high potentials!**
+
+**Never connect the wemos's USB port to your computer while the AC mains are connected on the KEECO HW node power module. However this should cause no problem there can be unforeseen circumstances where this scenario could damage your laptop!**
 
 
 ## KEECO_HW_Node_Vertical.dxf
