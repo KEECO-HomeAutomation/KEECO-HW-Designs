@@ -19,7 +19,6 @@ Board that supplies 5V to the KEECO HW Node from 110..230VAC
 
 ### Bill of Materials (BOM)
 - 230V varistor (B72220S0231K101)
-- fuseholder (HTC-100M)
-- 250V, 100mA fuse (0217.200MXP)
+- fuse (37002000430)
 - 5V supply (HLK-PM01)
 - PCB (can be ordered using the gerber zip file) 
