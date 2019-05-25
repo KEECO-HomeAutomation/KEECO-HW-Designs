@@ -29,7 +29,8 @@ Editable PCB schema for the power module board that supplies 5V to the KEECO HW 
 
 
 ### Bill of Materials (BOM)
-- 230V varistor (B72220S0231K101)
-- fuse (37002000430)
+- V1 - 230V varistor (B72220S0231K101)
+- F1 - fuse (37002000430)
+- F2 - fuse (0467.500NRHF)
 - 5V supply (HLK-PM01)
 - PCB (can be ordered using the gerber zip file) 
