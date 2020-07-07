@@ -1,4 +1,11 @@
-###BOM 
+# KEECO RFID Gate Control panel with 2 relays
+This device communicates with a home automation HUB over MQTT.
+The related KEECO personality can be found here: https://github.com/KEECO-HomeAutomation/keeco-hwnode-ESP8266/tree/master/src/Personalities/RFID_Gate_Opener
+
+# Safety Notice
+This device will be operated with 230V thus only continue assembling it on your on risk.
+
+### BOM 
  - 1 pcs of PCB
  - 2 pcs of 0JE-SS-103HM relay
  - 1 pcs of 74HCT14N
