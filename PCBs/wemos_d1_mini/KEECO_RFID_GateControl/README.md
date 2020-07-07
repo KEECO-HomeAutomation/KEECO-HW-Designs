@@ -1,0 +1,14 @@
+1 pcs of PCB
+2 pcs of 0JE-SS-103HM relay
+1 pcs of 74HCT14N
+1 pcs of PCF8574AN
+1 pcs of ULN2803A
+1 pcs of RFID-RC522
+9 pcs of 10k0 
+1 pcs of SFR70RO thermal fuse
+1 pcs of DG300-5.0-2P12 connector
+1 pcs of SIOV-S07K250 varistor
+1 pcs of 0034.6609 fuse
+1 pcs of 1206L060YR fuse
+2 pcs of 8 pin connectors from the Wemos D1 Mini shipping kit
+4 pcs of FIX-MAD-10S plastic spacers (optional)
