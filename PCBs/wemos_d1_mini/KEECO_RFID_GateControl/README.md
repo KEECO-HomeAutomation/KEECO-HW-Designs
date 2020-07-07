@@ -3,7 +3,7 @@ This device communicates with a home automation HUB over MQTT.
 The related KEECO personality can be found here: https://github.com/KEECO-HomeAutomation/keeco-hwnode-ESP8266/tree/master/src/Personalities/RFID_Gate_Opener
 
 # Safety Notice
-This device will be operated with 230V thus only continue assembling it on your on risk.
+This device will be operated with 230V thus only continue assembling it on your own risk.
 
 ### BOM 
  - 1 pcs of PCB
