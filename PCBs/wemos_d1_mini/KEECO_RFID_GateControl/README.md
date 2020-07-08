@@ -13,6 +13,7 @@ This device will be operated with 230V thus only continue assembling it on your 
  - 1 pcs of ULN2803A
  - 1 pcs of RFID-RC522
  - 9 pcs of 10k0 
+ - 1 pcs of HLK-PM01 
  - 1 pcs of SFR70RO thermal fuse
  - 1 pcs of DG300-5.0-2P12 connector
  - 1 pcs of SIOV-S07K250 varistor
