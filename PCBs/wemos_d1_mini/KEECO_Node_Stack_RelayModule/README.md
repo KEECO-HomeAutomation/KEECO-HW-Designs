@@ -1,3 +1,4 @@
+# THIS DESING HAS AN ERROR - DO NOT USE!
 # This PCB is the Relay Module for the KEECO Node Stack
 ##Features
 - Two independent mechanical relay channels
