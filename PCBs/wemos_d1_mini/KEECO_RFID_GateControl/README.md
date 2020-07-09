@@ -5,6 +5,8 @@ The related KEECO personality can be found here: https://github.com/KEECO-HomeAu
 # Safety Notice
 This device will be operated with 230V thus only continue assembling it on your own risk.
 
+![PCB Image](https://github.com/KEECO-HomeAutomation/KEECO-HW-Designs/blob/master/PCBs/wemos_d1_mini/KEECO_RFID_GateControl/PCB_image.PNG?raw=true)
+
 ### BOM 
  - 1 pcs of PCB
  - 2 pcs of 0JE-SS-103HM relay
