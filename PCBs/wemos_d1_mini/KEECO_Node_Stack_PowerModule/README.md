@@ -1,5 +1,5 @@
 # This PCB is the Power Module for the KEECO Node Stack
-##Features
+## Features
 - Provides 5V supply for the Wemos D1 Mini board
 - Operates on 120/230V networks
 - Thermal fuse protection
