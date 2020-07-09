@@ -8,6 +8,8 @@
 ## Layout
 This is the only PCB in the KEECO Node Stack that connects to the stack with the bottom side up to make sure proper cooling for the HLK-PM01 power unit.
 
+![PCB Image](https://github.com/KEECO-HomeAutomation/KEECO-HW-Designs/blob/master/PCBs/wemos_d1_mini/KEECO_Node_Stack_PowerModule/PCB_image.PNG?raw=true)
+
 ##BOM
  - 1 pcs of SFR70RO thermal fuse
  - 1 pcs of DG300-5.0-2P12 connector
